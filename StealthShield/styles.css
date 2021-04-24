@@ -1,0 +1,66 @@
+.container {
+    background-color: black !important;
+    text-align: center;
+}
+h1, h4, p {
+    color: white;
+    text-align: center;
+}
+h1 {
+    padding-top: 1.2rem;
+}
+
+p {
+    font-weight: bold;
+}
+
+h4 {
+    padding-top: 1.1rem;
+    padding-bottom: 0.8rem;
+    font-weight: bolder !important;
+}
+.jumbotron {
+    background-color: #090a0a !important;
+    padding-top: 1.2rem !important;
+    padding-bottom: 1.2rem !important; 
+} 	
+
+.icon {
+    width: 10%;
+    border-radius: 20%;
+    margin-bottom: 1.2rem;
+}
+
+.carousel-inner img {
+    width: 25%;
+    height: 25%;
+    margin-bottom: 1.2rem
+}
+
+@media only screen and (max-width: 480px) {
+   
+    .carousel-inner img {
+        width: 60%;
+        height: 60%;
+        margin-bottom: 1.2rem
+    }
+}
+
+
+
+.appstore {
+    padding-top: 1.2rem !important;
+    padding-bottom: 1.2rem !important; 
+}
+
+.carousel-indicators {
+    opacity: 0;
+}
+
+.links {
+    color: white;
+}
+
+.links {
+    width: 15%;
+}

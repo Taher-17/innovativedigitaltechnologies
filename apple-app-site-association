@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "M88S6KSWX2.com.innovativedigitaltechnologies.FollowersWidget",
+        "paths": ["*/SocialStats/app"]
+      }
+    ]
+  }
+}

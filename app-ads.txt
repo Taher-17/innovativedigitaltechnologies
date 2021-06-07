@@ -1,6 +1,7 @@
 facebook.com, 369220013564470, RESELLER, c3e20eee3f780d68
 google.com, pub-5049549495162162, DIRECT, f08c47fec0942fa0
 mopub.com, c8efeb7481924803bbd9746972bfe395, DIRECT, 74b46c0ea83967ca
+rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
 tapjoy.com, 0a754446863348e3ad3e4d939baf61aa, DIRECT, 29e595b1aeb5904d
 rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 applovin.com, 6c4f3fbae6fab02e3160f6f75d80e9c6, DIRECT
